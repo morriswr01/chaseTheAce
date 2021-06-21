@@ -1,0 +1,19 @@
+{
+  "name": "chasetheace",
+  "version": "1.0.0",
+  "description": "Will, Mike and Callums chase the ace project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morriswr01/chaseTheAce.git"
+  },
+  "author": "Will Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morriswr01/chaseTheAce/issues"
+  },
+  "homepage": "https://github.com/morriswr01/chaseTheAce#readme"
+}
